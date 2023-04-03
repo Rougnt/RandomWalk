@@ -2,7 +2,7 @@
  * @Author: Rogunt abc847111391@hotmail.com
  * @Date: 2023-04-03 22:10:49
  * @LastEditors: Rogunt abc847111391@hotmail.com
- * @LastEditTime: 2023-04-03 22:11:26
+ * @LastEditTime: 2023-04-03 22:18:53
  * @FilePath: /StochasticProcesses/README.md
  * @Description: 
  * 
@@ -28,4 +28,4 @@ RandomWalk Stochastic Processes Work
 |mygraph.py|魏子尊|图上的随机游走，已弃用，该文件可以对动画进行保存|
 |RandomWalk.py|魏子尊|图上随机游走，用Class进行封装，并输出了转移概率矩阵等详细信息|
 |zhang2D.py|张晟楠|2D随机游走，已弃用，到达终点判断有误，移动只能45°|
-|PPT.ppt（未上传）|张梦园|汇报所用PPT|
+|第10组.pptx|张梦园|汇报所用PPT|
