@@ -1,9 +1,25 @@
+<!--
+ * @Author: Rogunt abc847111391@hotmail.com
+ * @Date: 2023-04-03 22:10:49
+ * @LastEditors: Rogunt abc847111391@hotmail.com
+ * @LastEditTime: 2023-04-03 22:11:26
+ * @FilePath: /StochasticProcesses/README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2023 by Rogunt abc847111391@hotmail.com, All Rights Reserved. 
+-->
 # RandomWalk
+
 RandomWalk Stochastic Processes Work
+
 随机过程，课程作业
+
 第10组
+
 成员：张梦园，张晟楠，魏子尊
+
 文件介绍
+
 |文件名|作者|简介|
 |----|----|----|
 |2DrandomWalk.py|张晟楠|2D随机游走|
