@@ -2,7 +2,7 @@
 Author: 张晟楠
 Date: 2023-04-03 21:08:37
 LastEditors: Rogunt abc847111391@hotmail.com
-LastEditTime: 2023-04-03 21:59:47
+LastEditTime: 2023-04-04 21:17:40
 FilePath: /StochasticProcesses/zhang2D.py
 Description: 
 2D随机游走，已弃用
@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 global stop_positions
 # c表示散点的数量
-r, c = 2, 50
+r, c = 2, 10
 positions = np.random.randint(-10, 10, (r, c))
 stop_positions = np.random.randint(-39, 39, (r, c))
 colors = np.random.random((c, 3))

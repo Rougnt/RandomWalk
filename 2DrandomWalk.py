@@ -2,7 +2,7 @@
 Author: 张晟楠
 Date: 2023-04-02 16:29:16
 LastEditors: Rogunt abc847111391@hotmail.com
-LastEditTime: 2023-04-03 21:06:39
+LastEditTime: 2023-04-04 21:00:32
 FilePath: /StochasticProcesses/2DrandomWalk.py
 Description: 二维随机游走
 
@@ -14,7 +14,7 @@ import matplotlib.animation as animation
 global stop_positions
 # c表示散点的数量
 r, c = 2, 10
-lim = 40        # 定义坐标尺寸
+lim = 10        # 定义坐标尺寸
 positions = np.random.randint(-int(lim/3), int(lim/3), (r, c)).T        # 定义初始点位置
 stop_positions = np.random.randint(-lim, lim, (r, c)).T                 # 定义停止位置
 colors = np.random.random((c, 3))                                       # 定义c个点的颜色（rgb）
@@ -39,5 +39,5 @@ def update(i):
 
 
 # 创建动画
-ani_scatters = animation.FuncAnimation(fig, update, interval=100, blit=True)
+ani_scatters = animation.FuncAnimation(fig, update, interval=50, blit=True)
 plt.show()

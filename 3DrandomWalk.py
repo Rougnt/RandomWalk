@@ -2,7 +2,7 @@
 Author: Rogunt abc847111391@hotmail.com
 Date: 2023-04-03 18:09:49
 LastEditors: Rogunt abc847111391@hotmail.com
-LastEditTime: 2023-04-03 21:02:55
+LastEditTime: 2023-04-04 21:03:56
 FilePath: /StochasticProcesses/3DrandomWalk.py
 Description: 3D随机游走，来源于matplotlib示例
 
@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
 # Fixing random state for reproducibility
-np.random.seed(19680801)
+# np.random.seed(19680801)
 
 
 def gen_rand_line(length, dims=2):

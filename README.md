@@ -29,3 +29,4 @@ RandomWalk Stochastic Processes Work
 |RandomWalk.py|图上随机游走，用Class进行封装，并输出了转移概率矩阵等详细信息|
 |zhang2D.py|2D随机游走，已弃用，到达终点判断有误，移动只能45°|
 |第10组.pptx|汇报所用PPT|
+|demo/|对应程序的演示视频|
