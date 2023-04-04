@@ -28,5 +28,5 @@ RandomWalk Stochastic Processes Work
 |mygraph.py|图上的随机游走，已弃用，该文件可以对动画进行保存|
 |RandomWalk.py|图上随机游走，用Class进行封装，并输出了转移概率矩阵等详细信息|
 |zhang2D.py|2D随机游走，已弃用，到达终点判断有误，移动只能45°|
-|第10组.pptx|汇报所用PPT|
+|~~第10组.pptx~~|~~汇报所用PPT（文件过大，无法上传，将在Release中上传）~~|
 |demo/|对应程序的演示视频|
